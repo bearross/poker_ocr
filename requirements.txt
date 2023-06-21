@@ -1,0 +1,8 @@
+opencv-python==4.4.0.44
+pywin32
+numpy
+pygetwindow
+pillow
+protobuf==3.19.4
+tensorflow==1.6.0
+pyinstaller
